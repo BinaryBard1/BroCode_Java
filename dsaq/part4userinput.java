@@ -6,7 +6,7 @@ public class part4userinput {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Your Name ");
 		String name = sc.nextLine();
-		System.out.println("Enter your age");
+		System.out.println("Enter your age man");
 		int age = sc.nextInt();
 		sc.nextLine();
 		String dish = sc.nextLine();
