@@ -10,7 +10,7 @@ public class extra {
 	public static void main(String []args) {
 		extra ex =  new extra();
 		extra.hello ani = ex.new hello();
-		ani.hi("Aniruddha", 18);
+		ani.hi("Aniruddha", 19);
 		
 		
 	}
