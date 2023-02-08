@@ -9,6 +9,7 @@ public class part4userinput {
 		System.out.println("Enter your age man");
 		int age = sc.nextInt();
 		sc.nextLine();
+		String name2 = "pair";
 		String dish = sc.nextLine();
 		System.out.println("Your Name is "+name+ " and your age is "+age+ " Fav dish "+dish);
 		sc.close();
