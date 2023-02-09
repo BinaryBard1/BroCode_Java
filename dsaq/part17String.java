@@ -5,7 +5,7 @@ public class part17String {
         String name = "Binary";
         String name1 = "     Bard";
         int length = name.length();
-        char re = name.charAt(3);
+        char re = name.charAt(4);
         int er = name.indexOf("a");
         boolean s =  name.equals("binary");
         boolean a = name.equalsIgnoreCase("binary");
